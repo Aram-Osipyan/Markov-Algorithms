@@ -1,0 +1,20 @@
+﻿<Window x:Class="TA.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TA"
+        mc:Ignorable="d"
+        Title="Markov substitutions" Height="459.6" Width="800" ResizeMode="NoResize"  AutomationProperties.IsColumnHeader="True">
+
+
+    <Grid Background="#FFFAB1A0" >
+        <TextBox RenderTransformOrigin="-0.91,0.475"  x:Name="outbox" Margin="415,200,9.6,64.6" FontFamily="Franklin Gothic Heavy" FontSize="16"  AutomationProperties.HelpText="Input an algorithm" AutomationProperties.IsRequiredForForm="True" IsEnabled="False" Background="White" UndoLimit="96" MinLines="100" TextWrapping="Wrap" />
+
+        <TextBox RenderTransformOrigin="-0.91,0.475" x:Name="inptbox" Margin="415,0,10.6,234.6" FontFamily="Franklin Gothic Heavy" FontSize="16" AcceptsReturn="True" AutomationProperties.HelpText="Input an algorithm" Text="поле ввода слова"/>
+        <TextBox RenderTransformOrigin="-0.91,0.475" x:Name="algbox" Margin="10,0,402.6,64.6" FontFamily="Franklin Gothic Heavy" FontSize="16" AcceptsReturn="True" AutomationProperties.HelpText="Input an algorithm" AutomationProperties.IsRequiredForForm="True" Text="поле ввода алгоритма" />
+        <Button Height="50" RenderTransformOrigin="0.648,3.716"  Margin="297,370,306.6,9.6" FontSize="16" FontFamily="Tw Cen MT" FontWeight="Bold" Background="#FFFF7675" ClickMode="Press" Click="Button_Click" >Compile
+            
+        </Button>
+    </Grid>
+</Window>
