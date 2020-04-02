@@ -12,5 +12,5 @@
 
 ![alt text](https://github.com/Aram-Osipyan/Markov-Algorithms/blob/master/Sreen/error.png)
 
-Функция вызывающая при нажатии на кнопку :
+[Функция](https://github.com/Aram-Osipyan/Markov-Algorithms/blob/master/Project/MainWindow.xaml.cs) вызывающая при нажатии на кнопку :
 ![alt text](https://github.com/Aram-Osipyan/Markov-Algorithms/blob/master/Sreen/Code.png)
