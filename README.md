@@ -1,5 +1,5 @@
 # Алгоритмы Маркова
-Программа для выполнения марковские подстановок
+Программа для выполнения марковскиx подстановок
  
 Приложение было сделано с помощью технологии [WPF](https://docs.microsoft.com/ru-ru/dotnet/framework/wpf/introduction-to-wpf) 
  
@@ -13,4 +13,5 @@
 ![alt text](https://github.com/Aram-Osipyan/Markov-Algorithms/blob/master/Sreen/error.png)
 
 [Функция](https://github.com/Aram-Osipyan/Markov-Algorithms/blob/master/Project/MainWindow.xaml.cs) вызывающая при нажатии на кнопку :
+
 ![alt text](https://github.com/Aram-Osipyan/Markov-Algorithms/blob/master/Sreen/Code.png)
