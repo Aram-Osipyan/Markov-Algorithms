@@ -5,4 +5,11 @@
  
 Пример ввода алгоритма:
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Aram-Osipyan/Markov-Algorithms/blob/master/Sreen/work.png)
+
+При зацикливании работа программы не останавливается :
+
+![alt text](https://github.com/Aram-Osipyan/Markov-Algorithms/blob/master/Sreen/error.png)
+
+Функция вызывающая при нажатии на кнопку :
+![alt text](https://github.com/Aram-Osipyan/Markov-Algorithms/blob/master/Sreen/Code.png)
