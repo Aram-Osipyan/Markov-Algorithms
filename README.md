@@ -3,6 +3,8 @@
  
 Приложение было сделано с помощью технологии [WPF](https://docs.microsoft.com/ru-ru/dotnet/framework/wpf/introduction-to-wpf) 
  
+ 
+ # Скрины
 Пример ввода алгоритма:
 
 ![alt text](https://github.com/Aram-Osipyan/Markov-Algorithms/blob/master/Sreen/work.png)
