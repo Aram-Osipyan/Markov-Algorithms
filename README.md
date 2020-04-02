@@ -1,6 +1,8 @@
-# Markov-Algorithms
-program for compiling Markov algorithms
+# Алгоритмы Маркова
+Программа для выполнения марковские подстановок
  
-the project was made using [WPF](https://docs.microsoft.com/ru-ru/dotnet/framework/wpf/introduction-to-wpf) technology 
+Приложение было сделано с помощью технологии [WPF](https://docs.microsoft.com/ru-ru/dotnet/framework/wpf/introduction-to-wpf) 
  
-project scrins:  
+Пример ввода алгоритма:
+
+![alt text](http://url/to/img.png)
